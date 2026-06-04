@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-version C
-=======
-verson B
->>>>>>> conflict-branch
+version A
